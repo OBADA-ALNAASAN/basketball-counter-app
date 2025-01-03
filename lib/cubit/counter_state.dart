@@ -1,7 +1,10 @@
-class CounterAIncrementState {
+ class CounterState {
+  
+}
+ class CounterAIncrementState extends CounterState{
   
 }
 
-class CounterBIncrementState {
+class CounterBIncrementState extends CounterState {
   
 }
